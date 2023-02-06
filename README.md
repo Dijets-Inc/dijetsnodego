@@ -35,7 +35,7 @@ cd dijetsnodego
 
 This will clone and checkout to `master` branch.
 
-#### Building the Dijets Executable
+#### Building the Dijets Executable Binary
 
 Build Dijets by running the build script:
 
